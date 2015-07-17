@@ -1,0 +1,12 @@
+# Site settings
+title: KnightHacks Blog
+email: team@knighthacks.org
+description: > # this means to ignore newlines until "baseurl:"
+  Blogging the experiences of UCF's first hackathon, Knight Hacks.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.knighthacks.org/" # the base hostname & protocol for your site
+twitter_username: knighthacks
+github_username:  knighthacks
+
+# Build settings
+markdown: kramdown
